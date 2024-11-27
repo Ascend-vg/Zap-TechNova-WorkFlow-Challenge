@@ -14,32 +14,7 @@ for scaling operations.
    - Assigns sales reps to leads using even distribution logic.
    - Analyzes lead comments for categorization.
    - Schedules follow-ups using Google Calendar based on urgency.
-
----
-
-## Repository Structure
-```
-Zap-TechNova-WorkFlow-Challenge/
-│
-├── Task1_Basic_Lead_Capture/
-│   ├── lead_scoring_system.js       # Logic for lead scoring automation.
-│   ├── scoring_spreadsheet.xlsx     # Lead data with calculated scores.
-│   ├── zap_screenshot.png           # Screenshot of Zapier workflow for Task 1.
-│   ├── workflow_logic.md            # Detailed documentation of Task 1 workflow.
-│
-├── Task2_Edge_Cases/
-│   ├── edge_case_handling.md        # Documentation for edge case management.
-│   ├── zap_screenshot_edge.png      # Screenshots for Task 2 workflows.
-│
-├── Task3_Scaling_Advanced/
-│   ├── advanced_features.md         # Documentation for advanced features in Task 3.
-│   ├── zap_advanced_features.png    # Screenshot for advanced workflows.
-│   ├── demo_video_link.txt          # Link to a demo video for Task 3 solutions.
-│
-├── README.md                        # Project overview and navigation.
-└── .gitignore                       # Ignore unnecessary files.
-```
-
+     
 ---
 
 ## Tasks Breakdown
